@@ -1,1 +1,1 @@
-Vue3， Vite 的基础配置。
+vue3，vite的简单模板
